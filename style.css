@@ -6,7 +6,7 @@
 }
 @font-face {
   font-family: "space";
-  src: url(fonts/SpaceGrotesk-VariableFont_wght.ttf);
+  src: url('Assets/fonts/SpaceGrotesk-VariableFont_wght.ttf');
 }
 
 :root {
