@@ -96,7 +96,7 @@
   height: 515px;
   justify-content: space-between;
   padding: 0px 100px;
-  background-image: url('Assets/speakerLogo.jpg');
+  background-image: url('Assets/backgroundLogo/speakerLogo.jpg');
   background-repeat: no-repeat;
   background-position: right;
 }
