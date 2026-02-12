@@ -1,0 +1,235 @@
+@media (max-width: 768px) {
+
+  .container {
+    max-width: 100%;
+    margin: 0;
+    gap: 40px;
+    border: none;
+  }
+
+  .landingPage {
+    margin-top: 20px;
+    gap: 40px;
+  }
+
+  .navBar {
+    padding: 0 20px;
+    height: auto;
+  }
+
+  .links {
+    display: none;
+  }
+
+  .menu {
+    display: flex;
+    align-items: center;
+  }
+
+  #navBarLogo {
+    width: 130px;
+    height: auto;
+  }
+
+  .header {
+    flex-direction: column;
+    height: auto;
+    padding: 0 20px;
+    gap: 40px;
+    background-size: 100% ;
+  }
+
+  .textSection {
+    width: 100%;
+    height: auto;
+    margin-top: 0;
+    gap: 40px;
+  }
+
+  .textSection .head {
+   margin-bottom: 350px;
+  }
+  .textSection .description {
+    width: 100%;
+    height: auto;
+  }
+
+  .textSection button {
+    width: 100%;
+  }
+
+  .headerLogo {
+    width: 100%;
+    height: auto;
+  }
+
+  .headerLogo img {
+    width: 100%;
+    height: auto;
+    
+  }
+
+  .logoTypes {
+    flex-wrap: wrap;
+    height: auto;
+    padding: 40px 20px;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .subHeading {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px;
+    height: auto;
+    text-align: center;
+  }
+
+
+  .subHeading p {
+    width: 100%;
+    height: auto;
+  }
+
+   .serviceBlock {
+  width: 100%;
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+
+}
+
+
+.more {
+  display:none;
+}
+.icon {
+  display: none;
+}
+.card-head-link {
+}
+.card-head-link h4
+{
+  margin-right:20px;
+}
+.cardOne .card-head-link  , .cardTwo .card-head-link
+{
+  width: 100%;
+  background-image: url('Assets/Cards/cardOne-Magnifier.png');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size:150px ;
+}
+.cardTwo .card-head-link
+{
+  background-image: url('Assets/Cards/CardTwo-Illustration.png');
+}
+
+  .icon #cardOne-img {
+    width: 100%;
+  }
+
+  .Second-subHeading {
+    flex-direction: column;
+    padding: 0 20px;
+
+  }
+
+  .Second-subHeading .text 
+  {
+    text-align: center;
+  }
+
+  .dropDown-container {
+    width: 100%;
+    border: none;
+  }
+
+  .dropDown {
+    width: 100%;
+    height: auto;
+    padding: 30px 20px;
+  }
+
+  .front,
+  .down {
+    width: 100%;
+    height: auto;
+  }
+
+  .formSection {
+    width: 100%;
+    height: auto;
+    padding: 40px 20px;
+    flex-direction: column;
+    background-image: none;
+  }
+
+  .form {
+    width: 100%;
+    height: auto;
+  }
+
+  .feilds {
+    width: 100%;
+    height: auto;
+  }
+
+  textarea {
+    width: 100%;
+  }
+
+  .footerBlock {
+    width: 100%;
+    height: auto;
+    padding: 40px 20px;
+  }
+
+  .footerNav {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .footerContactus {
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    gap: 30px;
+  }
+
+  .contact {
+    width: 100%;
+  }
+
+  .subscription {
+    width: 100%;
+    flex-direction: column;
+    height: auto;
+    padding: 20px;
+  }
+
+  .emailBox input {
+    width: 100%;
+  }
+
+  .subButton button {
+    width: 100%;
+    padding:10px;
+  }
+
+  .privacyPolicy {
+    width: 100%;
+    flex-direction: column;
+    gap: 10px;
+    height: auto;
+  }
+
+}
+
+
+
+
+     
+    
