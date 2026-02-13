@@ -78,27 +78,30 @@
    
   }
 
-  .textSection .head {
-   margin-bottom: 350px;
+  .header .head {
+   margin-bottom: 40px;
+   order: 1;
   }
-  .textSection .description {
+  .header .description {
     width: 100%;
     height: auto;
+    order:3;
   }
 
-  .textSection button {
+  .header button {
     width: 100%;
+    order: 4;
   }
 
-  .headerLogo {
-    width: 100%;
-    height: auto;
-  }
-
-  .headerLogo img {
+  /* .headerLogo {
     width: 100%;
     height: auto;
-    
+  } */
+
+  .header img {
+    width: 100%;
+    height: auto;
+    order: 2;
   }
 
   .logoTypes {
