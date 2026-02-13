@@ -150,6 +150,11 @@
   height: auto;
 }
 
+.black {
+ 
+    filter: grayscale(100%) contrast(200%);
+}
+
 /* ----------------------- */
 
 .subHeading {
