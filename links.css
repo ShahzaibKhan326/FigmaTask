@@ -1,0 +1,27 @@
+@media (max-width: 1150px) {
+
+    .landingPage {
+        margin-top: 20px;
+        gap: 40px;
+      }
+    
+      .navBar {
+        padding: 0 20px;
+        height: auto;
+      }
+    
+      .links {
+        display: none;
+      }
+    
+      .menu {
+        display: flex;
+        align-items: center;
+      }
+    
+      #navBarLogo {
+        width: 280px;
+        height: auto;
+      }
+    
+}

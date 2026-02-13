@@ -44,6 +44,8 @@
     height: auto;
     margin-top: 0;
     gap: 40px;
+    /* border:1px solid red; */
+   
   }
 
   .textSection .head {
@@ -227,6 +229,7 @@
   }
 
 }
+
 
 
 
