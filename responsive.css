@@ -14,13 +14,15 @@
   }
 
   .navBar {
-    padding: 0 20px;
+    padding: 0 10px;
     height: auto;
+    border: 1px solid lime;
   }
 
   .links {
     display: none;
   }
+
 /* -------------- */
 .sideLinks {
   box-shadow: 0px 2px 5px gray;
@@ -57,7 +59,6 @@
   }
 
   #navBarLogo {
-    width: 130px;
     height: auto;
   }
 
