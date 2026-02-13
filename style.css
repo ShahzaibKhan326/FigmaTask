@@ -82,7 +82,7 @@
     cursor: pointer;
 }
 
-.active {
+.show {
   display: none;
 }
 

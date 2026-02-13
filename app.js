@@ -29,5 +29,5 @@ let menuBtn = document.querySelector(".menu");
 let sideMenu = document.querySelector(".sideLinks")
 
 menuBtn.addEventListener("click", ()=> {
-  sideMenu.classList.toggle("active")
+  sideMenu.classList.toggle("show")
 })
