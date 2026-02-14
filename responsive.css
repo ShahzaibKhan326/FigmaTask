@@ -16,7 +16,7 @@
   .navBar {
     padding: 0 10px;
     height: auto;
-    border: 1px solid lime;
+    /* border: 1px solid lime; */
   }
 
   .links {
