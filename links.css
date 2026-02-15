@@ -43,11 +43,21 @@
         width: 100%;
       }
       
-
     .links #withBorder{
         border: none;
       
+      /* }
+      .footerLinks ul {
+        list-style: none;;
       }
+
+      .footerLinks a {
+        text-decoration: none;
+        border: 1px solid red;
+        display: flex;
+        flex-flow: column;
+        color: white;
+      } */
 
     /* ---------------------- */
       .menu {
