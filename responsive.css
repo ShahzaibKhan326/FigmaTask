@@ -94,10 +94,6 @@
     order: 4;
   }
 
-  /* .headerLogo {
-    width: 100%;
-    height: auto;
-  } */
 
   .header img {
     width: 100%;
@@ -304,8 +300,9 @@ footer {
   }
   .footer_logos {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     gap:10px;
+    margin:10px 0px;
   }
   
 }
