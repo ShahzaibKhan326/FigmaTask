@@ -46,29 +46,65 @@
     .links #withBorder{
         border: none;
       
-      /* }
-      .footerLinks ul {
-        list-style: none;;
-      }
-
-      .footerLinks a {
-        text-decoration: none;
-        border: 1px solid red;
-        display: flex;
-        flex-flow: column;
-        color: white;
-      } */
-
+    }
     /* ---------------------- */
+
       .menu {
         display: flex;
         align-items: center;
-       
       }
     
       #navBarLogo {
         width: 150px;
         height: auto;
       }
-    
+
+    .header {
+    flex-flow: column;
+    height: auto;
+    padding: 0 20px;
+    gap: 35px;
+    background-size: 100% ;
+  }
+
+  /* --------------- */
+
+   .header {
+    flex-flow: column;
+    height: auto;
+    padding: 0 20px;
+    gap: 20px;
+    background-size: 100% ;
+    align-items: center;
+    text-align: center;
+  }
+   
+
+  .header .head {
+   margin-bottom: 20px;
+   order: 1;
+  }
+  .header .description {
+    width: 100%;
+    height: auto;
+    order:3;
+  }
+
+  .header button {
+    width: 100%;
+    max-width: 350px;
+    order: 4
+  }
+  .header img {
+    width: 100%;
+    height: auto;
+    order: 2;
+
+  }
+
+    /* ------------- */
+  .logoTypes 
+  {
+    padding:0px; 
+  }
 }
