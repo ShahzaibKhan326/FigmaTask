@@ -152,6 +152,9 @@
   .card_one {
     display: none;
   }
+  .learnMore {
+    display: none;
+  }
 
   .Second-subHeading {
     flex-direction: column;
